@@ -6,7 +6,6 @@
   
   /*cus*/
   
-  
   .wframe_img{ 
     height:1240px;
      width:1920px;
@@ -16,8 +15,8 @@
     background-position-y:-500px;
     background-image:url(https://cdn.jsdelivr.net/gh/nemone517/todogther/docs/todogther_img/wframe.png);
     mix-blend-mode: luminosity;
-  animation-name: frame;
-      animation-duration: 4000s;
+    animation-name: frame;
+    animation-duration: 4000s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
     animation-direction: alternate;
